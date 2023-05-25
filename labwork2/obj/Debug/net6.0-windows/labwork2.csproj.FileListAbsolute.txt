@@ -1,0 +1,17 @@
+C:\Users\mali_\Downloads\CST\semester 3\1302\labwork2\bin\Debug\net6.0-windows\labwork2.exe
+C:\Users\mali_\Downloads\CST\semester 3\1302\labwork2\bin\Debug\net6.0-windows\labwork2.deps.json
+C:\Users\mali_\Downloads\CST\semester 3\1302\labwork2\bin\Debug\net6.0-windows\labwork2.runtimeconfig.json
+C:\Users\mali_\Downloads\CST\semester 3\1302\labwork2\bin\Debug\net6.0-windows\labwork2.dll
+C:\Users\mali_\Downloads\CST\semester 3\1302\labwork2\bin\Debug\net6.0-windows\labwork2.pdb
+C:\Users\mali_\Downloads\CST\semester 3\1302\labwork2\obj\Debug\net6.0-windows\labwork2.csproj.AssemblyReference.cache
+C:\Users\mali_\Downloads\CST\semester 3\1302\labwork2\obj\Debug\net6.0-windows\labwork2.Form1.resources
+C:\Users\mali_\Downloads\CST\semester 3\1302\labwork2\obj\Debug\net6.0-windows\labwork2.csproj.GenerateResource.cache
+C:\Users\mali_\Downloads\CST\semester 3\1302\labwork2\obj\Debug\net6.0-windows\labwork2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mali_\Downloads\CST\semester 3\1302\labwork2\obj\Debug\net6.0-windows\labwork2.AssemblyInfoInputs.cache
+C:\Users\mali_\Downloads\CST\semester 3\1302\labwork2\obj\Debug\net6.0-windows\labwork2.AssemblyInfo.cs
+C:\Users\mali_\Downloads\CST\semester 3\1302\labwork2\obj\Debug\net6.0-windows\labwork2.csproj.CoreCompileInputs.cache
+C:\Users\mali_\Downloads\CST\semester 3\1302\labwork2\obj\Debug\net6.0-windows\labwork2.dll
+C:\Users\mali_\Downloads\CST\semester 3\1302\labwork2\obj\Debug\net6.0-windows\refint\labwork2.dll
+C:\Users\mali_\Downloads\CST\semester 3\1302\labwork2\obj\Debug\net6.0-windows\labwork2.pdb
+C:\Users\mali_\Downloads\CST\semester 3\1302\labwork2\obj\Debug\net6.0-windows\labwork2.genruntimeconfig.cache
+C:\Users\mali_\Downloads\CST\semester 3\1302\labwork2\obj\Debug\net6.0-windows\ref\labwork2.dll
